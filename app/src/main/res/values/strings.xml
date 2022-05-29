@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PetAdoption</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment1Title">Adopt a new best friend!</string>
+    <string name="fragment1">Here you can find the pet\nof your dreams.</string>
+    <string name="fragment2Title">Change a pet\'s life!</string>
+    <string name="fragment2">Make your new best friend the\nhappiest pet ever.</string>
+    <string name="fragment3Title">Make your home a happier place!</string>
+    <string name="fragment3">Your new pet will bring joy to your\nhome like no one else.</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_confirm_password">Confirm password</string>
+    <string name="prompt_email">Email</string>
+    <string name="action_log_in">Log in</string>
+    <string name="dont_have_account">Don\'t have an account? Register now</string>
+    <string name="login">Log in</string>
+    <string name="orLogin">or log in with</string>
+    <string name="signup">Sign up</string>
+    <string name="already_have_account">Already have an account? Log in now</string>
+    <string name="prompt_username">Username</string>
+</resources>
