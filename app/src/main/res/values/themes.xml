@@ -3,5 +3,12 @@
     <style name="Theme.PetAdoption" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <item name="android:statusBarColor" tools:targetApi="l">@color/almostWhite</item>
         <!-- Customize your theme here. -->
+        <item name="android:colorPrimary">@color/blue</item>
     </style>
+    <style name="Theme.PetAdoption.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.PetAdoption.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="Theme.PetAdoption.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 </resources>
